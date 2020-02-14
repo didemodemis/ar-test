@@ -1,9 +1,0 @@
-# Rhino
-newmtl qr-code
-Ka 0 0 0
-Kd 1 1 1
-Ks 1 1 1
-Tf 0 0 0
-d 1
-Ns 0
-map_Kd qr-code.png
