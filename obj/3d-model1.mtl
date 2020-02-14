@@ -1,0 +1,30 @@
+# Rhino
+newmtl 00
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+map_Kd 00.png
+newmtl Plastic (3)
+Ka 0 0 0
+Kd 0.411764705882353 0.411764705882353 0.411764705882353
+Ks 0 0 0
+Tf 0 0 0
+d 1
+Ns 255
+newmtl Black Matte
+Ka 0 0 0
+Kd 0 0 0
+Ks 1 1 1
+Tf 0 0 0
+d 1
+Ns 0
+newmtl Glass
+Ka 0 0 0
+Kd 1 1 1
+Ks 1 1 1
+Tf 0 0 0
+d 0.790697738528252
+Ns 17.4565349891782
